@@ -1,0 +1,15 @@
+.autocomplete-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5%;
+}
+
+.autocomplete-title {
+    color: rgb(128, 128, 128)
+}
+
+.autocomplete-container input {
+    height: 2rem;
+    padding: 0.4rem 0.8rem;
+}
