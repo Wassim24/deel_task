@@ -67,4 +67,4 @@ These are the main steps, but there may be some details and exceptions depending
 4. CSS Scoping
 
 ### Rendering HTML
-Using SSR
+Using SSR and react utilities to do it.
