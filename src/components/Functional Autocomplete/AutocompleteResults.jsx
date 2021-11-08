@@ -8,7 +8,7 @@ const AutocompleteResults = (props) => {
         (<li key={item.id} className={'autocomplete-results-item'}>{item.title}</li>);
     
 
-    renderResults = (items) => (        
+    const renderResults = (items) => (        
         <ul className={'autcomplete-results'}>
             {
                 isResultEmpty() 
